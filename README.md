@@ -32,7 +32,7 @@
         - Even if my experiement comes up with the same result, is it valid or am I missing something else. 
         - Covid is a supremely nice test of this index, generally speaking. Is there any way to make it so that the test has very little bias and still proves/disproves the validity of this index ?  
     
-    - _Slice of life Questions_ 
+<!--     - _Slice of life Questions_ 
         - Do the feelings of people working to make the index hurt when they see this paper? 
         - How much would they value a rebuttal, financilly speaking ofc. [More Capitalist than slice of life but meh.]
-        - This is all too surface level and the index is super in depth so does anyone really care? 
+        - This is all too surface level and the index is super in depth so does anyone really care?  -->
